@@ -1,6 +1,6 @@
 const Hero = () => (
   <div className="hero-container">
-    <img src="src/assets/blog-image-hero.png" className="hero-img" />
+    <img src="/assets/blog-image-hero.png" className="hero-img" />
     <div className="hero-text">
       <p className="hero-date">July 23, 2022</p>
       <h1>My new journey as a bootcamp student</h1>

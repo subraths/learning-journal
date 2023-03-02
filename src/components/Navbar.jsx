@@ -1,6 +1,6 @@
 const Navbar = () => (
   <nav>
-    <img src="./src/assets/image 17.png" className="nav-icon" />
+    <img src="/assets/image 17.png" className="nav-icon" />
     <h2 className="nav-header">My learning journal</h2>
     <ul>
       <li>Home</li>
