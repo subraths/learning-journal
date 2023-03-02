@@ -56,10 +56,19 @@ nav li:last-child {
   width: 100%;
 }
 
+.hero-date {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
 .hero-text {
   position: absolute;
   bottom: 0;
   padding: 1em;
+}
+
+.hero-text h1 {
+  margin: 0.3em 0 0.3em 0;
 }
 
 /* .hero-text { */
