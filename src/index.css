@@ -81,3 +81,29 @@ nav li:last-child {
 /*   bottom: 25%; */
 /*   padding: 1em; */
 /* } */
+
+/* Blog Component */
+
+.blog {
+  margin: 1em 0;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-date {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  padding-top: 1em;
+}
+
+.blog-title {
+  color: #141414;
+  font-size: 1.5rem;
+  padding: 0.5em 0;
+}
+
+.blog-body {
+  letter-spacing: 0.02em;
+  color: #505050;
+}
